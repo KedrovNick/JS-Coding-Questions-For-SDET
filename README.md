@@ -30,7 +30,7 @@ const removeDuplicates = (arr) => {
   ```
 2. Sort Array (ASC,DESC) - Numbers or Strings
   ```js
-   Task - Sort array of numbers
+   Solution 1 - Sort array of numbers
  const sortArr = (arr) => {
      return arr.sort((a,b) => a - b);
  }
