@@ -2,7 +2,7 @@
 
 ## Arrays
 1. Remove Duplicates From Array
-  ```
+  ```js
   const arr = [100,100,200,200,300,400,400];
 
 // Soution 1 - using Set and spread operator
