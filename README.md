@@ -34,8 +34,6 @@ const removeDuplicates = (arr) => {
  const sortArr = (arr) => {
      return arr.sort((a,b) => a - b);
  }
-
- console.log(sortArr(arr));
   ```
 
 ## Objects
