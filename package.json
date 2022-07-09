@@ -1,0 +1,31 @@
+{
+  "name": "js-coding-questions-for-sdet",
+  "version": "1.0.0",
+  "description": "Coding Interview Questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KedrovNick/JS-Coding-Questions-For-SDET.git"
+  },
+  "keywords": [
+    "JS",
+    "Coding",
+    "Interview",
+    "Coding",
+    "Practice",
+    "Interview",
+    "Prep",
+    "Coding",
+    "Interview",
+    "Prep"
+  ],
+  "author": "Nikita Bogdanov - the SDET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KedrovNick/JS-Coding-Questions-For-SDET/issues"
+  },
+  "homepage": "https://github.com/KedrovNick/JS-Coding-Questions-For-SDET#readme"
+}
