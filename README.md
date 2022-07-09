@@ -1,2 +1,20 @@
-# JS-Coding-Questions-For-SDET
-Just creating a public repository with all the different coding questions you might face on the interview for SDET.
+# Most Popular JavaScript Coding Questions
+
+## Arrays
+1. Remove Duplicates From Array
+2. Sort Array (ASC,DESC) - Numbers or Strings
+
+## Objects
+1.
+2.
+3.
+
+## Strings
+1.
+2.
+3.
+
+## Numbers
+1.
+2.
+3.
