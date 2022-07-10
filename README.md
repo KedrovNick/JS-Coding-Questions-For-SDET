@@ -70,11 +70,11 @@ const findDuplicate = (arr) => {
 3.
 
 ## Strings
-1.
+1. Reverse String
 2.
 3.
 
 ## Numbers
-1.
+1. Reverse Number
 2.
 3.
